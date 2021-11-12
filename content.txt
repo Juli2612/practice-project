@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 new content clear
+=======
+new content cherry
+>>>>>>> c6d9904 (new cherry)
